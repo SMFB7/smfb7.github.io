@@ -1,0 +1,362 @@
+Package: com.eliodev.duolingo-font-enabler
+Name: duolingo font enabler (Script)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This bash script enables fonts in Duolingo. It is safe to use but it's still a script.
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tools
+Depends: plutil
+Filename:./debs/com.eliodev.duolingo-font-enabler-1.0.deb
+Size: 1684
+MD5sum: ec3f7c20444b8ea09605b154f6913f4c
+SHA1: b17f1c33663c18c54a54fe7bdc02d8d4636025c1
+SHA256: 23bdbb8ddf33a7ca88aacce9c7d4fb0834d0db60bd5cbd1cadc339c4562562bc
+
+Package: com.eliodev.twitter-font-enabler
+Name: twitter font enabler (Script)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This bash script enables fonts in Twitter. It is safe to use but it's still a script.
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tools
+Depends: plutil
+Filename:./debs/com.eliodev.twitter-font-enabler-1.0.deb
+Size: 1572
+MD5sum: ab5f115d63a652ce1f2dde663f3a72cd
+SHA1: 2a61af28d239221c9d3ad02b0fffccbd156584c4
+SHA256: 5c3863e6413304e1fc74d3cab972873eba853c95423f09755b7923d4357f9b89
+
+Package: com.eliodev.zoomjailbreakdetection
+Name: zoom jailbreak detection bypass
+Version: 1.0
+Architecture: iphoneos-arm
+Description: hides zoom jailbreak detection alert on startup when launching the zoom app
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/zoomjbdetectionbypass1.0.deb
+Size: 3800
+MD5sum: 7a1355c28282dd9b2b5ceb4aaef20004
+SHA1: 150a378621429e7c8b2c20907e1607e76d2e4f7b
+SHA256: b536bcb10afa83cd80ebd1a1ca013913d096abe58ac60039658374a1c841f65b
+
+Package: com.eliodev.youtube-version-editor
+Name: Youtube version editor
+Version: 1.2
+Architecture: iphoneos-arm
+Description: change your youtube version without the need of the appstore! (outdated Tweak)
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliodev.youtube-version-editor-1.2.deb
+Size: 1215490
+MD5sum: 4f27bdcd168782490d7b870d84dfe56e
+SHA1: d496d8e7d2d7f43c60b0d2e955506ff5239e2aab
+SHA256: df871e1362266449cb6c682c8757076724ae66c721a937dfa810d69c25229f3c
+
+Package: com.eliodev.factorial-tool
+Name: Factorial tool
+Version: 1.1
+Architecture: iphoneos-arm
+Description: do math!!!! Type ft in the terminal to start the tool
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tools
+Filename:./debs/com.eliodev.factorial-tool-1.1.deb
+Size: 4536
+MD5sum: 766546e7fa9ee0dcdbc2e7579658b6bf
+SHA1: edaf8355cf63788362f55b3f525682a6f8fc312e
+SHA256: 62ebfd50aaa951d2e03d9a41003029b456c3b0d93b4b81c7263e5c4718d9c0ed
+
+Package: com.eliofegh.status-bar-changer
+Name: status bar changer
+Version: 1.7
+Architecture: iphoneos-arm
+Description: change everything in your status bar
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.status-bar-changer_1.7.deb
+Depiction: https://eliofegh.github.io/depictions/status-bar-changer/status-bar-changer.html
+Icon: https://eliofegh.github.io/depictions/status-bar-changer/icon.png
+Size: 171120
+MD5sum: ea61e796bc4f197e43f5254cdab3d7e8
+SHA1: da0dc60cf5903d59b84a8e36362616e254ba0c2d
+SHA256: 3cda0746e9e12d678b31d6c1087a4b2325de8cb3ec986b9ccc5fae78de06bb23
+
+Package: com.eliofegh.status-bar-changer
+Name: status bar changer
+Version: 1.9
+Architecture: iphoneos-arm
+Description: change everything in your status bar
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.status-bar-changer_1.9.deb
+Depiction: https://eliofegh.github.io/depictions/status-bar-changer/status-bar-changer.html
+Icon: https://eliofegh.github.io/depictions/status-bar-changer/icon.png
+Size: 211158
+MD5sum: 4f9e902bdb9a8197feb6ddc12758fc43
+SHA1: fd4e96e0e1cc09e8532fe80146b78786e1869472
+SHA256: 47cd24258fa6feb3703c0cb26d29636955a3599d106b340d1bd37375cf8a90eb
+
+Package: com.eliofegh.status-bar-changer
+Name: status bar changer
+Version: 1.9.5
+Architecture: iphoneos-arm
+Description: change everything in your status bar
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.status-bar-changer_1.9.5.deb
+Depiction: https://eliofegh.github.io/depictions/status-bar-changer/status-bar-changer.html
+Icon: https://eliofegh.github.io/depictions/status-bar-changer/icon.png
+Size: 211266
+MD5sum: 0031df4ae02113d04640814a07401cdb
+SHA1: 41e1a25b17ab6457e5c464f115a9643e5cd98d3d
+SHA256: 688f1b6da35e073a81b016b3ae38b5098fa4ab976ed0faee1f508dbaa532228f
+
+Package: com.eliofegh.status-bar-changer
+Name: status bar changer
+Version: 1.9.7
+Architecture: iphoneos-arm
+Description: change everything in your status bar
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.status-bar-changer_1.9.7.deb
+Depiction: https://eliofegh.github.io/depictions/status-bar-changer/status-bar-changer.html
+Icon: https://eliofegh.github.io/depictions/status-bar-changer/icon.png
+Size: 211288
+MD5sum: 186b9b6ac092cc2c3c8ff45efcd4fa7b
+SHA1: c944993e79c48b62c3b3e99583d9a24e609e6174
+SHA256: e9a81456e73b8716875a3c8423fa348a45c79f419e5414b9de2d24f83a52994a
+
+Package: com.eliofegh.dnd-quotes
+Name: DND Quotes
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Get a random quote everytime you enable Do Not Disturb and more features!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.dnd-quotes_1.3.deb
+Depiction: https://eliofegh.github.io/depictions/dnd-quotes/dnd-quotes.html
+Icon: https://eliofegh.github.io/depictions/dnd-quotes/icon.jpg
+Size: 164424
+MD5sum: 5c3bd16b7a601675faf6d7bd0b1320a0
+SHA1: dc1353fe033dd2366b3da17e64ef6951522772c0
+SHA256: d6be3a75b5cdffbcc7a38b621c712d59b6c0f82b4b4c4027ce1e4525e0280cea
+
+Package: com.eliofegh.dnd-quotes
+Name: DND Quotes
+Version: 1.5
+Architecture: iphoneos-arm
+Description: Get a random quote everytime you enable Do Not Disturb and more features!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.dnd-quotes_1.5.deb
+Depiction: https://eliofegh.github.io/depictions/dnd-quotes/dnd-quotes.html
+Icon: https://eliofegh.github.io/depictions/dnd-quotes/icon.jpg
+Size: 164942
+MD5sum: 31840c6add81c613e6adf103777a0be7
+SHA1: 83e265baacdb2de4d773b5891e48e3c013869328
+SHA256: 4791bdff8f72752943726caa09f1d7668241de0587aafb57914b2fe6053d4702
+
+Package: com.eliofegh.uiswitch-changer
+Name: UISwitch changer
+Version: 1.0
+Architecture: iphoneos-arm
+Description: custom color for your uiswitch!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.uiswitch-changer_1.0.deb
+Depiction: https://eliofegh.github.io/depictions/uiswitch-changer/uiswitch-changer.html
+Icon: https://eliofegh.github.io/depictions/uiswitch-changer/icon.jpg
+Size: 20760
+MD5sum: 9eb316ba8f4d0f12c8ee24d3379dde46
+SHA1: b120199c71daf54ef6a0ea9b9a3ac448a0658214
+SHA256: 2baacfe8c894c2f75db1bbacd5e72d3f7a45bdb24984f270ab2bce46a9b152bc
+
+Package: com.eliofegh.uiswitch-changer
+Name: UISwitch changer
+Version: 1.1
+Architecture: iphoneos-arm
+Description: custom color for your uiswitch!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.uiswitch-changer_1.1_iphoneos-arm.deb
+Depiction: https://eliofegh.github.io/depictions/uiswitch-changer/uiswitch-changer.html
+Icon: https://eliofegh.github.io/depictions/uiswitch-changer/icon.jpg
+Size: 21384
+MD5sum: acee2b059742d4a04678bcc64c8df1b3
+SHA1: ffcfcee156e7b343c56fc7846806e050cb3a5aea
+SHA256: 48a00e24e8cf9cef784eba972152ab2ebaf85730a96f6c8be7478e01730362e3
+
+Package: com.eliofegh.calculative
+Name: calculative
+Version: 1.0
+Architecture: iphoneos-arm
+Description: a creative calculator style!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.calculative_1.0.deb
+Depiction: https://eliofegh.github.io/depictions/calculative/calculative.html
+Icon: https://eliofegh.github.io/depictions/calculative/icon.jpg
+Size: 21846
+MD5sum: e1d5f2fd7b48defcc8d34b2f63dfa4b4
+SHA1: b782a6f64a71c618929308609edbaf36b1c1f0fe
+SHA256: 6cebc5eb43caf6c8e40509f7f0d0412d8176e327f5789501110d22adb612ccdf
+
+Package: com.eliofegh.hello-style
+Name: helloStyle
+Version: 0.0.1-b1
+Architecture: iphoneos-arm
+Description: hello!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.hello-style_0.0.1-b1.deb
+Depiction: https://eliofegh.github.io/depictions/hello-style/hello-style.html
+Icon: https://eliofegh.github.io/depictions/hello-style/icon.jpeg
+Size: 41418
+MD5sum: 159ce916693429e7972c271570015547
+SHA1: b7f14e41638661aee06e94324ead7deb6ee2ec39
+SHA256: 61d72559578389a283aee708d91c9cc655da287487c584fbeac05eedb7296a56
+
+Package: com.eliofegh.hello-style
+Name: helloStyle
+Version: 0.0.1-b2
+Architecture: iphoneos-arm
+Description: hello!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.hello-style_0.0.1-b2.deb
+Depiction: https://eliofegh.github.io/depictions/hello-style/hello-style.html
+Icon: https://eliofegh.github.io/depictions/hello-style/icon.jpeg
+Size: 41434
+MD5sum: 4af1f36f676f52852da328e1a2f2a554
+SHA1: 4d7dd9043546fa6fc64200d4f36cac3447048233
+SHA256: 1b72a1ef50ad064c28c6c325c26f9da1fc764a48e56ebcbac6926a3896f0c073
+
+Package: com.eliofegh.date-bar
+Name: date bar
+Version: 1.0
+Architecture: iphoneos-arm
+Description: more date!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.date-bar_1.0.deb
+Depiction: https://eliofegh.github.io/depictions/date-bar/date-bar.html
+Icon: https://eliofegh.github.io/depictions/date-bar/icon.png
+Size: 3670
+MD5sum: c896ca6bb43438b03563c10a2f6d9b9d
+SHA1: e5a07928a3444b3e55d44b34facd0840a4e7e4f5
+SHA256: e0e63042fa99099d8498559d6d245c5d17e0bc10b4cf74bf4d829a53cb11b5fe
+
+Package: com.eliofegh.date-bar
+Name: date bar
+Version: 1.1
+Architecture: iphoneos-arm
+Description: more date!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.date-bar_1.1.deb
+Depiction: https://eliofegh.github.io/depictions/date-bar/date-bar.html
+Icon: https://eliofegh.github.io/depictions/date-bar/icon.png
+Size: 26934
+MD5sum: ff45e556f0cc0390a6ab3f8144b9f836
+SHA1: c9d2fae58f8a69843072a82a7ae2e683c09da978
+SHA256: 12d421397dfbdc7871588a2d1a6b879549e9bd4490a52cbf216c69955c7ccf07
+
+Package: com.eliofegh.date-bar
+Name: date bar
+Version: 1.2
+Architecture: iphoneos-arm
+Description: more date!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.date-bar_1.2.deb
+Depiction: https://eliofegh.github.io/depictions/date-bar/date-bar.html
+Icon: https://eliofegh.github.io/depictions/date-bar/icon.png
+Size: 26362
+MD5sum: a77faa4ad94f657f48ea9abf1e489307
+SHA1: 48a1b859fc4bfc75b19a14d8f4084e762b1fad74
+SHA256: cc9c99f23ffe137cf384a3d317c057ce601a25186aacc5c7c650e5c6e506eec6
+
+Package: com.eliofegh.compact-date
+Name: compact date
+Version: 1.0
+Architecture: iphoneos-arm
+Description: compact date below lockscreen time
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.compact-date_1.0.deb
+Depiction: https://eliofegh.github.io/depictions/compact-date/compact-date.html
+Icon: https://eliofegh.github.io/depictions/compact-date/icon.png
+Size: 2754
+MD5sum: 42612447b2084f77effbe78632b128c4
+SHA1: 69e46e2b26fde7137ca567cae9ead323d16f06f0
+SHA256: 909a73d3f6bed780b9c1c77748bb1d428043d3e6bc6c423fe3662f6eb390a0bc
+
+Package: com.eliofegh.voloc
+Name: voloc
+Version: 1.0
+Architecture: iphoneos-arm
+Description: custom color for your volume hud!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.voloc_1.0_iphoneos-arm.deb
+Depiction: https://eliofegh.github.io/depictions/voloc/voloc.html
+Icon: https://eliofegh.github.io/depictions/voloc/icon.png
+Size: 24210
+MD5sum: 1d26ffc96d79baed606ccb81caaa3afb
+SHA1: 2ee742839635485dfa31f931f514cef31b12e91f
+SHA256: c7b9b28a7493e4b92c14579d328af64368a79efee8717ffcc3410f45506416fb
+
+Package: com.eliofegh.voloc
+Name: voloc
+Version: 1.1
+Architecture: iphoneos-arm
+Description: custom color for your volume hud!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.voloc_1.1_iphoneos-arm.deb
+Depiction: https://eliofegh.github.io/depictions/voloc/voloc.html
+Icon: https://eliofegh.github.io/depictions/voloc/icon.png
+Size: 23698
+MD5sum: cf43420173d4a08d5d37358234b7ffe2
+SHA1: 4866cbba3b15ca04bebc2636464085ee1a7dbda4
+SHA256: 5b11155815d5f413442b78d5a6e5ba91d3353a7e7c2922c13d83a92cf3abcd32
