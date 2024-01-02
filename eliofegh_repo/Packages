@@ -82,8 +82,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.status-bar-changer_1.7.deb
-Depiction: https://eliofegh.github.io/depictions/status-bar-changer/status-bar-changer.html
-Icon: https://eliofegh.github.io/depictions/status-bar-changer/icon.png
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/status-bar-changer/status-bar-changer.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/status-bar-changer/icon.png
 Size: 171120
 MD5sum: ea61e796bc4f197e43f5254cdab3d7e8
 SHA1: da0dc60cf5903d59b84a8e36362616e254ba0c2d
@@ -99,8 +99,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.status-bar-changer_1.9.deb
-Depiction: https://eliofegh.github.io/depictions/status-bar-changer/status-bar-changer.html
-Icon: https://eliofegh.github.io/depictions/status-bar-changer/icon.png
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/status-bar-changer/status-bar-changer.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/status-bar-changer/icon.png
 Size: 211158
 MD5sum: 4f9e902bdb9a8197feb6ddc12758fc43
 SHA1: fd4e96e0e1cc09e8532fe80146b78786e1869472
@@ -116,8 +116,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.status-bar-changer_1.9.5.deb
-Depiction: https://eliofegh.github.io/depictions/status-bar-changer/status-bar-changer.html
-Icon: https://eliofegh.github.io/depictions/status-bar-changer/icon.png
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/status-bar-changer/status-bar-changer.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/status-bar-changer/icon.png
 Size: 211266
 MD5sum: 0031df4ae02113d04640814a07401cdb
 SHA1: 41e1a25b17ab6457e5c464f115a9643e5cd98d3d
@@ -133,8 +133,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.status-bar-changer_1.9.7.deb
-Depiction: https://eliofegh.github.io/depictions/status-bar-changer/status-bar-changer.html
-Icon: https://eliofegh.github.io/depictions/status-bar-changer/icon.png
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/status-bar-changer/status-bar-changer.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/status-bar-changer/icon.png
 Size: 211288
 MD5sum: 186b9b6ac092cc2c3c8ff45efcd4fa7b
 SHA1: c944993e79c48b62c3b3e99583d9a24e609e6174
@@ -150,8 +150,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.dnd-quotes_1.3.deb
-Depiction: https://eliofegh.github.io/depictions/dnd-quotes/dnd-quotes.html
-Icon: https://eliofegh.github.io/depictions/dnd-quotes/icon.jpg
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/dnd-quotes/dnd-quotes.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/dnd-quotes/icon.jpg
 Size: 164424
 MD5sum: 5c3bd16b7a601675faf6d7bd0b1320a0
 SHA1: dc1353fe033dd2366b3da17e64ef6951522772c0
@@ -167,8 +167,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.dnd-quotes_1.5.deb
-Depiction: https://eliofegh.github.io/depictions/dnd-quotes/dnd-quotes.html
-Icon: https://eliofegh.github.io/depictions/dnd-quotes/icon.jpg
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/dnd-quotes/dnd-quotes.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/dnd-quotes/icon.jpg
 Size: 164942
 MD5sum: 31840c6add81c613e6adf103777a0be7
 SHA1: 83e265baacdb2de4d773b5891e48e3c013869328
@@ -184,8 +184,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.uiswitch-changer_1.0.deb
-Depiction: https://eliofegh.github.io/depictions/uiswitch-changer/uiswitch-changer.html
-Icon: https://eliofegh.github.io/depictions/uiswitch-changer/icon.jpg
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/uiswitch-changer/uiswitch-changer.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/uiswitch-changer/icon.jpg
 Size: 20760
 MD5sum: 9eb316ba8f4d0f12c8ee24d3379dde46
 SHA1: b120199c71daf54ef6a0ea9b9a3ac448a0658214
@@ -201,8 +201,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.uiswitch-changer_1.1_iphoneos-arm.deb
-Depiction: https://eliofegh.github.io/depictions/uiswitch-changer/uiswitch-changer.html
-Icon: https://eliofegh.github.io/depictions/uiswitch-changer/icon.jpg
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/uiswitch-changer/uiswitch-changer.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/uiswitch-changer/icon.jpg
 Size: 21384
 MD5sum: acee2b059742d4a04678bcc64c8df1b3
 SHA1: ffcfcee156e7b343c56fc7846806e050cb3a5aea
@@ -218,8 +218,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.calculative_1.0.deb
-Depiction: https://eliofegh.github.io/depictions/calculative/calculative.html
-Icon: https://eliofegh.github.io/depictions/calculative/icon.jpg
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/calculative/calculative.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/calculative/icon.jpg
 Size: 21846
 MD5sum: e1d5f2fd7b48defcc8d34b2f63dfa4b4
 SHA1: b782a6f64a71c618929308609edbaf36b1c1f0fe
@@ -235,8 +235,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.hello-style_0.0.1-b1.deb
-Depiction: https://eliofegh.github.io/depictions/hello-style/hello-style.html
-Icon: https://eliofegh.github.io/depictions/hello-style/icon.jpeg
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/hello-style/hello-style.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/hello-style/icon.jpeg
 Size: 41418
 MD5sum: 159ce916693429e7972c271570015547
 SHA1: b7f14e41638661aee06e94324ead7deb6ee2ec39
@@ -252,8 +252,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.hello-style_0.0.1-b2.deb
-Depiction: https://eliofegh.github.io/depictions/hello-style/hello-style.html
-Icon: https://eliofegh.github.io/depictions/hello-style/icon.jpeg
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/hello-style/hello-style.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/hello-style/icon.jpeg
 Size: 41434
 MD5sum: 4af1f36f676f52852da328e1a2f2a554
 SHA1: 4d7dd9043546fa6fc64200d4f36cac3447048233
@@ -269,8 +269,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.date-bar_1.0.deb
-Depiction: https://eliofegh.github.io/depictions/date-bar/date-bar.html
-Icon: https://eliofegh.github.io/depictions/date-bar/icon.png
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/date-bar/date-bar.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/date-bar/icon.png
 Size: 3670
 MD5sum: c896ca6bb43438b03563c10a2f6d9b9d
 SHA1: e5a07928a3444b3e55d44b34facd0840a4e7e4f5
@@ -286,8 +286,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.date-bar_1.1.deb
-Depiction: https://eliofegh.github.io/depictions/date-bar/date-bar.html
-Icon: https://eliofegh.github.io/depictions/date-bar/icon.png
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/date-bar/date-bar.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/date-bar/icon.png
 Size: 26934
 MD5sum: ff45e556f0cc0390a6ab3f8144b9f836
 SHA1: c9d2fae58f8a69843072a82a7ae2e683c09da978
@@ -303,8 +303,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.date-bar_1.2.deb
-Depiction: https://eliofegh.github.io/depictions/date-bar/date-bar.html
-Icon: https://eliofegh.github.io/depictions/date-bar/icon.png
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/date-bar/date-bar.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/date-bar/icon.png
 Size: 26362
 MD5sum: a77faa4ad94f657f48ea9abf1e489307
 SHA1: 48a1b859fc4bfc75b19a14d8f4084e762b1fad74
@@ -320,8 +320,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.compact-date_1.0.deb
-Depiction: https://eliofegh.github.io/depictions/compact-date/compact-date.html
-Icon: https://eliofegh.github.io/depictions/compact-date/icon.png
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/compact-date/compact-date.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/compact-date/icon.png
 Size: 2754
 MD5sum: 42612447b2084f77effbe78632b128c4
 SHA1: 69e46e2b26fde7137ca567cae9ead323d16f06f0
@@ -337,8 +337,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.voloc_1.0_iphoneos-arm.deb
-Depiction: https://eliofegh.github.io/depictions/voloc/voloc.html
-Icon: https://eliofegh.github.io/depictions/voloc/icon.png
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/voloc/voloc.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/voloc/icon.png
 Size: 24210
 MD5sum: 1d26ffc96d79baed606ccb81caaa3afb
 SHA1: 2ee742839635485dfa31f931f514cef31b12e91f
@@ -354,8 +354,8 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliofegh.voloc_1.1_iphoneos-arm.deb
-Depiction: https://eliofegh.github.io/depictions/voloc/voloc.html
-Icon: https://eliofegh.github.io/depictions/voloc/icon.png
+Depiction: https://smfb7.github.io/eliofegh_repo/depictions/voloc/voloc.html
+Icon: https://smfb7.github.io/eliofegh_repo/depictions/voloc/icon.png
 Size: 23698
 MD5sum: cf43420173d4a08d5d37358234b7ffe2
 SHA1: 4866cbba3b15ca04bebc2636464085ee1a7dbda4
