@@ -30,6 +30,7 @@ SHA256: 5c3863e6413304e1fc74d3cab972873eba853c95423f09755b7923d4357f9b89
 
 Package: com.eliofegh.tulipe
 Name: tulipe
+Version: 1.4.2
 Architecture: iphoneos-arm
 Description: A different lockscreen
 Maintainer: ElioFeghali
@@ -37,8 +38,10 @@ Author: ElioFeghali
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis
 Filename:./debs/com.eliofegh.tulipe_1.4.2_iphoneos-arm.deb
-Depiction: https://example.com
-Version: 1.4.2
+Size: 177496
+MD5sum: 86f93f255825e2f5d9b5f71a7c830e80
+SHA1: aae5e1d724b58777b8032de5d10d1b5ea9db7db9
+SHA256: ca41326d70f359c774ecc462a04b4de69cb2282f8b30b7d7dd71f7471bc0a5db
 
 Package: com.eliodev.zoomjailbreakdetection
 Name: zoom jailbreak detection bypass
